@@ -21,3 +21,5 @@ PROPOSED SOLUTIONS :
    👉One-handed 🕐🫳 operation
    
    👉Intuitive user 🧑‍💻🧑‍💻 interface 
+
+   
